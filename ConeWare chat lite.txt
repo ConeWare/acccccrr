@@ -1,0 +1,182 @@
+local A_1 = "ConeWare chat bypasser (lite) loaded!"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+print("damn u are broke")
+local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
+
+local X = Material.Load({
+	Title = "ConeWare chat bypasser (V1 lite)",
+	Style = 3,
+	SizeX = 500,
+	SizeY = 350,
+	Theme = "Aqua",
+	ColorOverrides = {
+		MainFrame = Color3.fromRGB(235,235,235)
+	}
+})
+
+local Y = X.New({
+	Title = "English"
+})
+
+
+local A = Y.Button({
+	Text = "Bitch",
+	Callback = function()
+		local A_1 = "БitСh"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "yes"
+			})
+		end
+	}
+})
+
+local A = Y.Button({
+	Text = "Fuck",
+	Callback = function()
+		local A_1 = "Ғ×џҪҚ"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+
+local A = Y.Button({
+	Text = "Sex",
+	Callback = function()
+		local A_1 = "ЅЄӼ"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+local A = Y.Button({
+	Text = "boobs",
+	Callback = function()
+		local A_1 = "БooБs"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+
+local A = Y.Button({
+	Text = "kys",
+	Callback = function()
+		local A_1 = "KΎS"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+
+
+local A = Y.Button({
+	Text = "Faggot",
+	Callback = function()
+		local A_1 = "FАББOT"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+
+
+local A = Y.Button({
+	Text = "shit",
+	Callback = function()
+		local A_1 = "ЅНЇЃ"
+		local A_2 = "All"
+		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+		Event:FireServer(A_1, A_2)
+		print("Poszlo")
+	end,
+	Menu = {
+		Information = function(self)
+			X.Banner({
+				Text = "bad word"
+			})
+		end
+	}
+})
+
+
+
+
+while true do
+	wait(20)
+	local A_1 = "U can buy premium version of coneware chat bypasser on our server EMbGXCJ6"
+	local A_2 = "All"
+	local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+	Event:FireServer(A_1, A_2)
+	print("buy premium broke noob")
+	wait(20)
+	local A_1 = "Imagine not using premium version of this bypasser"
+	local A_2 = "All"
+	local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+	Event:FireServer(A_1, A_2)
+	wait(30)
+	local A_1 = "am broke because I can't afford 1$ script"
+	local A_2 = "All"
+	local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+	Event:FireServer(A_1, A_2)
+	wait(40)
+	local A_1 = "visit our server EMbGXCJ6"
+	local A_2 = "All"
+	local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+	wait(5)
+end
